@@ -1,5 +1,8 @@
 # `near-sdk-as` Starter Kit
 
+https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_ZmUxNjljMGUtNjNmNy00OTk2LTg3ZTQtM2FlODk3MGM0ZGFj%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522ffcea58c-766b-4eea-9684-92cc7cb3c5e9%2522%252c%2522Oid%2522%253a%252294b6b05c-2445-4cd0-b03f-a7b49b61fe35%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=a4a49491-6e2e-4393-84a5-3a82f907fb87&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+
+
 This is a good project to use as a starting point for your AssemblyScript project.
 
 ## Samples
